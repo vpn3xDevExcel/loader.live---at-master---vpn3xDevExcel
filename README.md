@@ -1,2 +1,1 @@
-AI.WastedLocker
-Execution.LaunchAI();
+if it says injected. Its not. Do not use it
